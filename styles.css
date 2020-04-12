@@ -1,0 +1,18 @@
+#tu {
+  padding: 0;
+  margin-bottom: 0;
+  font-size: 50px;
+  text-align: center;
+  font-family: 'Raleway';
+}
+#date {
+  font-size: 88.8px;
+  text-align: center;
+  font-family: 'Rubik Mono One';
+}
+#rem {
+  font-size: 10px
+}
+.newdate {
+  width: 370px;
+}
